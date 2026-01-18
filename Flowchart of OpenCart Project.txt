@@ -1,0 +1,167 @@
+1. The Header:-
+
+  --> Company Logo (Link)
+  --> Currency (Link)
+      --> Euro
+      --> Sterling Pound
+      --> US Dollar
+  --> Phone Number (123456789) (Link)
+  --> My Account (Link)
+      --> Register
+      --> Login
+  --> Wish List (Link)
+  --> Shopping Cart (Link)
+  --> Checkout (Link)
+
+
+2. Top Menu:-
+
+Desktops:-
+  --> PC (0) (Link)
+  --> Max (1) (Link)
+  --> Show All Desktops (Link)
+
+Laptops & Notebooks:-
+  --> Macs (0) (Link)
+  --> Windows (0) (Link)
+  --> Show All Laptops and Notebooks (Link)
+
+Components:-
+  --> Mice and Trackballs (0) (Link)
+  --> Monitors (2) (Link)
+  --> Printers (0) (Link)
+  --> Scanners (0) (Link)
+  --> Web Cameras (0) (Link)
+  --> Show All Components (Link)
+
+Tablets
+
+Software
+
+Phones & PDA's
+
+Cameras
+
+MP3 Players:-
+  --> test 11 (0) (Link)
+  --> test 12 (0) (Link)
+  --> test 15 (0) (Link)
+  --> test 16 (0) (Link)
+  --> test 17 (0) (Link)
+  --> test 18 (0) (Link)
+  --> test 19 (0) (Link)
+  --> test 20 (0) (Link)
+  --> test 21 (0) (Link)
+  --> test 22 (0) (Link)
+  --> test 23 (0) (Link)
+  --> test 24 (0) (Link)
+  --> test 4 (0) (Link)
+  --> test 5 (0) (Link)
+  --> test 6 (0) (Link)
+  --> test 7 (0) (Link)
+  --> test 8 (0) (Link)
+  --> test 9 (0) (Link)
+
+
+4. Featured Products:-
+  --> MacBook
+  --> iPhone
+  --> Apple Cinema 30"
+  --> Canon EOS 5D
+
+
+6. Footer
+6.1 Information:-
+  --> Terms and Conditions (Link)
+  --> Delivery Information (Link)
+  --> About US (Link)
+  --> Privacy Policy (Link)
+
+6.2 Customer Service:-
+  --> Contact US (Link)
+  --> Returns (Link)
+  --> Site Map (Link)
+
+6.3 Extras:-
+  --> Brands (Link)
+  --> Gift Certificates (Link)
+  --> Affiliate (Link)
+  --> Specials (Link)
+
+6.4 My Account:-
+  --> My Account (Link)
+  --> Order History (Link)
+  --> Wish List (Link)
+  --> Newsletter (Link)
+
+
+Register Account:-
+1. Your Personal Details:-
+  --> First Name (Text Box) (String Format) (Mandatory)
+  --> Last Name (Text Box) (String Format) (Mandatory)
+  --> E-Mail (Text Box) (Email Format) (Mandatory)
+
+2. Your Password:- 
+  --> Password (Text Box) (Number or String Format) (Mandatory)
+
+3. Newsletter:-
+  --> Subscribe (Toggle Switch)
+
+4. I have read and agree to the Privacy Policy (Toggle Switch)
+
+5. Continue Button
+
+6. Side Bar:-
+  --> Login
+  --> Register
+  --> Forgotten Password
+  --> My Account
+  --> Address Book
+  --> Wish List
+  --> Order History
+  --> Downloads
+  --> Subscriptions
+  --> Reward Points
+  --> Returns
+  --> Transactions
+  --> Newsletter
+
+Login:-
+1. New Customer (Register Account)
+  --> Continue Button
+
+2. Returning Customer
+  --> E-Mail (Text Box) (Email Format) (Mandatory)
+  --> Password (Text Box) (Email Format) (Mandatory)
+  --> Forgotten Password
+      --> E-Mail (Text Box) (Email Format) (Mandatory)
+      --> Continue Button
+  --> Login Button
+
+3. Side Bar:-
+  --> Login
+  --> Register
+  --> Forgotten Password
+  --> My Account
+  --> Address Book
+  --> Wish List
+  --> Order History
+  --> Downloads
+  --> Subscriptions
+  --> Reward Points
+  --> Returns
+  --> Transactions
+  --> Newsletter
+
+Shopping Cart:-
+  --> Products Added to the Cart
+
+1. Checkout:-
+  --> Address Change Option
+  --> Pay via Credit Card / Debit Card
+  --> Pay Via UPI
+  --> Cash on Delivery Pay
+
+2. Order Confirmation
+
+

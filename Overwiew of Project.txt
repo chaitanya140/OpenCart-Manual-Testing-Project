@@ -1,0 +1,10 @@
+Manual Testing Project:-
+
+Project Introduction
+Understand & Explore it's functionality
+Writing Test Plan
+Writing Test Scenarios
+Writing Test Cases
+Test Environment Setup
+Test Execution
+Test Closure
